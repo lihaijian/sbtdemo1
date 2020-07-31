@@ -1,0 +1,16 @@
+user:
+  user-id: 1
+  username: lhj
+  hobbies:
+  - basketball
+  - football
+  map: {aaa: 1,bbb: 2}
+  sex: true
+  passwd: 1234
+  address:
+    id: 2
+    detail: 3
+    
+
+
+    
